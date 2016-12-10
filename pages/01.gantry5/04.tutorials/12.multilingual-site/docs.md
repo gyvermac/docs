@@ -203,7 +203,7 @@ From here, you can access the **Outlines** administrative panel, select the outl
 
 ![](multilanguage_31.png?classes=shadow,border)
 
-Next, you will want to change the main menu to the one you created for the language. For example, if this template style is assigned to Française, then you will want to select the Française (French) menu.
+Next, you will want to change the main menu to the one you created for the language. For example, if this template style is assigned to Français, then you will want to select the (French) menu Français.
 
 ![](multilanguage_21.PNG) {.border .shadow}
 
